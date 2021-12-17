@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 [![Alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahuston-0&show_icons=true&layout=compact&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Alice's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahuston0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahuston-0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Alice's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahuston0&layout=compact&time_range=last_year)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
