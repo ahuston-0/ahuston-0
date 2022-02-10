@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-[![Alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahuston-0&show_icons=true&layout=compact&count_private=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Alice's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahuston0&layout=compact&time_range=last_year&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahuston-0&show_icons=true&layout=compact&count_private=true&theme=tokyonight&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ahuston0&layout=compact&time_range=last_year&theme=tokyonight" />
+</a>
 <!--
 **ahuston-0/ahuston-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
