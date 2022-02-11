@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahuston-0&show_icons=true&layout=compact&count_private=true&theme=tokyonight&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ahuston0&layout=compact&time_range=last_6_months&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ahuston0&layout=compact&time_range=last_year&langs_count=10&theme=tokyonight" />
 </a>
 
 ### Feel free to shoot me an email if you have any questions or cool ideas!
