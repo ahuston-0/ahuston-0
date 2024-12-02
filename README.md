@@ -15,7 +15,9 @@ I'm a developer turned SRE working a ton with NixOS and Rust for my servers nowa
 [![Wakatime](https://wakatime.com/badge/user/0a36bfaa-f919-4dd5-834e-04af1ccc47d1.svg)](https://wakatime.com/@0a36bfaa-f919-4dd5-834e-04af1ccc47d1)
 [![CMake](https://github.com/StevensDeptECE/GrailGUI/actions/workflows/cmake.yml/badge.svg?branch=main)](https://github.com/StevensDeptECE/GrailGUI/actions/workflows/cmake.yml)
 
-<img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/110067984214716622?domain=https%3A%2F%2Fhachyderm.io&style=for-the-badge&logo=mastodon">
+
+<a rel="me" href="https://hachyderm.io/@moondust1105">![Mastodon Follow](https://img.shields.io/mastodon/follow/110067984214716622?domain=https%3A%2F%2Fhachyderm.io&style=for-the-badge&logo=mastodon)
+</a>
 
 <!--
 **ahuston-0/ahuston-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
