@@ -14,6 +14,7 @@ I'm a developer turned SRE working a ton with NixOS and Rust for my servers nowa
 
 [![Wakatime](https://wakatime.com/badge/user/0a36bfaa-f919-4dd5-834e-04af1ccc47d1.svg)](https://wakatime.com/@0a36bfaa-f919-4dd5-834e-04af1ccc47d1)
 [![CMake](https://github.com/StevensDeptECE/GrailGUI/actions/workflows/cmake.yml/badge.svg?branch=main)](https://github.com/StevensDeptECE/GrailGUI/actions/workflows/cmake.yml)
+<a rel="me" href="https://hachyderm.io/@moondust1105">Mastodon</a>
 <!--
 **ahuston-0/ahuston-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,4 +29,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<link href="https://hachyderm.io/@moondust1105" rel="me">
